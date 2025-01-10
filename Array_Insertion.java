@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
-public class Array_Insertion {
+public class Array_Insertion 
+{
 
     public static void main(String[] args) {
          int len,p,e;
